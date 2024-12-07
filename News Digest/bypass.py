@@ -64,4 +64,3 @@ if __name__ == '__main__':
     host = 'localhost'  # Change this to your preferred host
     port = 5000  # Change this to your preferred port
     app.run(host=host, port=port)
-   
